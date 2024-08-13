@@ -51,5 +51,5 @@ function resetBG(){
 
 //Linking to second page
 function myFunction() {
-    window.location.href = "secondPage.html";
+    window.location.href = "secondpage.html";
 }
