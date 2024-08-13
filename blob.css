@@ -5,7 +5,7 @@
   background: linear-gradient(
     180deg,
     rgba(47, 184, 255, 0.42) 31.77%,
-    #5c9df1 100%
+    #5c9df1 100% 
   );
   mix-blend-mode: color-dodge;
   -webkit-animation: up1 5s infinite alternate;
